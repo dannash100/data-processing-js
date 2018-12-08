@@ -14,5 +14,5 @@ design pattern for structuring flexible and reusable data pipelines
 - allows for rearrangement and clean scalability
 - support mutiple file formats by wireing together modular import and export code
 
-## Acquire Store Retrieve
+## acquire store retrieve
 *see acquire-store-retrieve/exercises and acquire-store-retrieve/toolkit for importing and exporting data from/to text file formats and databases*
