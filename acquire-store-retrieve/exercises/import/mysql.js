@@ -1,4 +1,4 @@
-const importFromMySql = require('../toolkit/importFromMySql.js')
+const importFromMySql = require('../../toolkit/importFromMySql.js')
 const mysql = require('node-mysql').default
 
 const config = {

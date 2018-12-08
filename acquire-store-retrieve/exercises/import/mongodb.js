@@ -1,5 +1,5 @@
 const mongo = require('promised-mongo')
-const importFromMongoDB = require('../toolkit/importFromMongoDB.js')
+const importFromMongoDB = require('../../toolkit/importFromMongoDB.js')
 
 // connects to earthquakes database using port 6000 which is mapped to MongoDB virtual machine
 
