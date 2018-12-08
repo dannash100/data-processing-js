@@ -1,6 +1,6 @@
 const file = require('./toolkit/file.js')
 
-file.read('./data/earthquakes.csv')
+file.read('../data/earthquakes.csv')
   .then(textFileData => {
     console.log(textFileData)
   })

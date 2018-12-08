@@ -1,6 +1,6 @@
 const importJsonFile = require('./toolkit/importJsonFile.js')
 
-importJsonFile('./data/earthquakes.json')
+importJsonFile('../data/earthquakes.json')
   .then(data => {
     console.log(data)
   })

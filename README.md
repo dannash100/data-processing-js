@@ -13,3 +13,6 @@ design pattern for structuring flexible and reusable data pipelines
 - modular with no hard dependencies on one another
 - allows for rearrangement and clean scalability
 - support mutiple file formats by wireing together modular import and export code
+
+## Acquire
+*see acquire/exercises and acquire/toolkit for importing data from text file formats and databases*
