@@ -13,6 +13,19 @@ function read (fileName) {
   })
 }
 
+function write (fileName, textFileData) {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(fileName, textFileData, (err) => {
+      if (err) {
+        reject(err)
+        return
+      }
+      resolve()
+    })
+  })
+}
+
 module.exports = {
-  read
+  read,
+  write
 }
