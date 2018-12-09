@@ -22,4 +22,9 @@ design pattern for structuring flexible and reusable data pipelines
 
 sometimes it is necessary to write custom parsers to interpret data in an unconventional format
 
-- RegEx testing tool http://regex101.com
+RegEx testing tool http://regex101.com
+
+custom parsers can be used in cases such as:
+- text files
+- the results of web scraping
+- binary data
