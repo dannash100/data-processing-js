@@ -12,7 +12,7 @@ design pattern for structuring flexible and reusable data pipelines
 - stages of the I/O pipeline communicate through CDR
 - modular with no hard dependencies on one another
 - allows for rearrangement and clean scalability
-- support mutiple file formats by wireing together modular import and export code
+- support multiple file formats by wiring together modular import and export code
 
 ## acquire store retrieve
 *see acquire-store-retrieve/exercises and acquire-store-retrieve/toolkit for importing and exporting data from/to text file formats and databases*
