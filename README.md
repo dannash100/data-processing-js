@@ -24,7 +24,8 @@ sometimes it is necessary to write custom parsers to interpret data in an unconv
 
 RegEx testing tool http://regex101.com
 
-custom parsers can be used in cases such as:
-- text files
+unusual formats that may require custom parsers inlcude:
+- unformatted text files
 - the results of web scraping
 - binary data
+- BSON or Binary JSON
