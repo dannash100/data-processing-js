@@ -98,7 +98,7 @@ eyes@>=0.1.6:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/eyes/-/eyes-0.1.8.tgz#62cf120234c683785d902348a800ef3e0cc20bc0"
 
-formulajs@1.0.8:
+formulajs@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/formulajs/-/formulajs-1.0.8.tgz#8c35d164f368a5ffb1a7abcf5075cf8de5e6070e"
   dependencies:
